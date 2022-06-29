@@ -1,0 +1,1 @@
+const divFour = document.querySelector('#divFour')
